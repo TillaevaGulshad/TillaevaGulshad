@@ -1,6 +1,6 @@
 ## Hi there 👋my name is Gulshad
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=verdana&weight=500&size=&pause=1000&color=6363C9EC&background=FFB75A00&width=435&lines=Aspiring+Junior+Backend+%2F+DevOps+Developce" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=C62EE5&width=435&lines=Aspiring+Junior+Backend+%2F+Dev0ps+Developer" alt="Typing SVG" /></a>
 
 <!--
 **TillaevaGulshad/TillaevaGulshad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
